@@ -1,0 +1,8 @@
+com/paula/expense/controller/CategoryController.class
+com/paula/expense/repository/CategoryRepository.class
+com/paula/expense/model/Category.class
+com/paula/expense/repository/ExpenseRepository.class
+com/paula/expense/controller/ExpenseController.class
+com/paula/expense/ExpenseApplication.class
+com/paula/expense/model/Expense.class
+com/paula/expense/model/User.class
